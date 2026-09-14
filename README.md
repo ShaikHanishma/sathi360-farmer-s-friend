@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Sathi360 Farmer's Friend
+
+Build Raithu Kavach Sathi360 AI, a mobile-first PWA for Indian farmers featuring voice-first Telugu/Hindi/English interaction, cinematic splash animation, Sathi360 conversational AI companion with text-to-speech and speech recognition, Crop Doctor diagnosis scanner, Weather Intelligence, Market Intelligence, Cyber Kavach cybersecurity suite (Scam Call, SMS analyzer, Link analyzer, risk meter and voice warnings), Government Schemes, SOS alert, and a farmer profile.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f316a69a-d726-45b4-ba49-54e27fcfc434).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
